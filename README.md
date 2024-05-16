@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @rauwo
+- 👀 I’m interested in backend development with rust, and personal training
+- 🌱 I’m currently learning rust, python
+- 📫 How to reach me @rauwo or rauwo@proton.me
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am training to be a PT
